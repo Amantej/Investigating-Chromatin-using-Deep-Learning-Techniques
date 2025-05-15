@@ -1,5 +1,3 @@
-
-Code can be shared based  on request: annemsony.137@gmail.com
 # Chromatin Imaging and Analysis in Cancer Cells
 
 ## Overview
